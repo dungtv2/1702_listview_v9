@@ -1,12 +1,12 @@
 {
-    'name': 'Dynamic ListView Advance Odoo 9',
-    'summary': 'Change The Odoo List view On the fly without any technical knowledge',
+    'name': 'technical knowledge',
+    'summary': '',
     'version': '1.0',
     'category': 'Web',
     'description': """
 
     """,
-    'author': "Odoo Stronger",
+    'author': "",
     'website': '',
     'depends': ['web'],
     'data': ['templates.xml',
@@ -19,6 +19,6 @@
     'application': False,
     'qweb': ['static/src/xml/listview_button_view.xml'],
     'images': [
-        'images/module_image.png',
+
     ],
 }
